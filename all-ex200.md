@@ -12,9 +12,9 @@
 
 |   name    |           IP          |       fqdn            |
 |-----------|-----------------------|-----------------------|
+| content   |   192.168.122.100/24  | content.example.com   |
 | server1   |   192.168.122.101/24  | server1.example.com   |
 | server2   |   192.168.122.102/24  | server2.example.com   |
-| content   |   192.168.122.100/24  | content.example.com   |
 
     - Configure as described in table above.  
     - Use time server as pool.ntp.org for all systems.
