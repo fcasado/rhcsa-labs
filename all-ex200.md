@@ -46,7 +46,7 @@
     srv_acc
     - Configure all sales users with initial password "bluebarries"
     - Configure all hr users with initial passwors "partimpim"
-''' 
+ 
     Paula Tejando, ptejando, sales
     Cuca Beludo, cbeludo, sales
     Alan Brado, abrado, sales
@@ -56,7 +56,7 @@
     Paulo Minozzo, pminozzo, administrative
     Thomas Anderson, neo, sysadmin
     Application Crazyness, crazyapp, srv_acc
-'''
+
     
 # Configure Users accounts
 
