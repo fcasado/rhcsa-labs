@@ -116,7 +116,7 @@
     - On all servers make the journal persistent.
     - Create a entry in rsyslog that writes all messages with a 
     severity of greater than error to /var/log/error.
-    - Ensure that /var/log/error is rotated on a 2 weeks base
+    - Ensure that /var/log/error is rotated on a weekly base
     and last 10 logs are kept before they are rotated out.
 
 ## Create a storage on content (stratis)
