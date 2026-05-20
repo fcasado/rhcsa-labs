@@ -110,4 +110,4 @@
 As with all Red Hat performance-based exams, configurations must
 persist after reboot without intervention.
 
-Source (2026/05/20): https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam 
+[Source  2026/05/20](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
