@@ -9,16 +9,16 @@
     Choose the one you have more familiarity or choose a new one to learn
     new cool stuff. I choosed the KVM/QEMU with VMM (Virtual Machine 
     Manager) due to seems more likely with we'll have on underline 
-    supporting the exam [^1].
+    supporting the exam[^1].
 
-    For install instructions and reference see: 
-    [Virtual Machine Manager](https://virt-manager.org/)
-
-
+    For install instructions and reference see 
+    [Virtual Machine Manager](https://virt-manager.org)
 
 
-[^1]:   I'm not sure about it just making a polite guess here ;), hit me 
-        if you have more data about it. I love try new things.
+
+
+[^1]: I'm not sure about it just making a polite guess here ;), hit me 
+      if you have more data about it. I love try new things.
 
     
    
