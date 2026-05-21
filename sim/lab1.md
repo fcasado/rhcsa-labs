@@ -5,9 +5,9 @@
     
     Lab initial information:
     
-      Host   |    IP/MAC       |   Login   |
-    :-------:|:---------------:|:----------:
-      node1  | 192.168.122.101 |  admin    |
-      node2  | 192.168.122.102 |  admin    |
+    |   Host  |     IP/MAC      |   Login   |
+    |:-------:|:---------------:|:----------:
+    |  node1  | 192.168.122.101 |  admin    |
+    |  node2  | 192.168.122.102 |  admin    |
 
 # 
