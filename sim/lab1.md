@@ -7,12 +7,11 @@
    
 * Lab environment
 
-# 
+ 
 
-    Login initially with student in each system and configure all
-    following the table information.
-
-    To discover the current dhcp IPs in use run:
+Login initially with student in each system and configure all
+following the table information.
+To discover the current dhcp IPs in use run:
 
     ```
     [student@bastion ~]$ virsh net-dhcp-leases default
@@ -22,12 +21,12 @@
      2026-05-22 12:08:18   52:54:00:ec:d9:ed   ipv4       192.168.122.229/24   -          01:52:54:00:ec:d9:ed
     ```
 
-    
-    |   Host      |       IP        |   Login   |
-    | ----------- | --------------- | --------- |
-    | workstation | 192.168.122.9   |  student  |
-    |   servera   | 192.168.122.10  |  student  |
-    |   serverb   | 192.168.122.11  |  student  |
+  
+|   Host      |       IP        |   Login   |
+| ----------- | --------------- | --------- |
+| workstation | 192.168.122.9   |  student  |
+|   servera   | 192.168.122.10  |  student  |
+|   serverb   | 192.168.122.11  |  student  |
 
 # 
 
