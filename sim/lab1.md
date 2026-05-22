@@ -38,7 +38,7 @@ To discover the current dhcp IPs in use run:
 
 ## Task 2
 
-    Configure the local package repositoy on node1. Use the bellow
+    Configure the local package repositoy on servera. Use the bellow
     requirements:
 
         - Create a iso clone in /rhel10.iso and mount it on /repo.
@@ -49,7 +49,7 @@ To discover the current dhcp IPs in use run:
 
 ## Task 3
 
-    Configure the network information on node1. Use the following
+    Configure the network information on serverb. Use the following
     information:
 
         - Create a connection profile and name it "net-lab" for the
@@ -63,7 +63,7 @@ To discover the current dhcp IPs in use run:
 
 ## Task 4
 
-    Configure time services on node1, follow the bellow requiremets:
+    Configure time services on all servers, follow the bellow requiremets:
 
         - Set the system timezone to America/Chicago.
         - Configure the **chrony** service to synchronize time from
