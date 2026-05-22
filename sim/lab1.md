@@ -5,20 +5,37 @@
   Good luck!
 
    
-* Lab initial information
-        
-    |   Host  |     IP/MAC      |   Login   |
-    | ------- | --------------- | --------- |
-    |  node1  | 192.168.122.101 |  admin    |
-    |  node2  | 192.168.122.102 |  admin    |
+* Lab environment
 
-# Lab 1
+# 
+
+    Login initially with student in each system and configure all
+    following the table information.
+
+    To discover the current dhcp IPs in use run:
+
+    ```
+    [student@bastion ~]$ virsh net-dhcp-leases default
+     Expiry Time           MAC address         Protocol   IP address           Hostname   Client ID or DUID
+    ------------------------------------------------------------------------------------------------------------
+     2026-05-22 12:08:20   52:54:00:52:2f:08   ipv4       192.168.122.113/24   -          01:52:54:00:52:2f:08
+     2026-05-22 12:08:18   52:54:00:ec:d9:ed   ipv4       192.168.122.229/24   -          01:52:54:00:ec:d9:ed
+    ```
+
+    
+    |   Host      |       IP        |   Login   |
+    | ----------- | --------------- | --------- |
+    | workstation | 192.168.122.9   |  student  |
+    |   servera   | 192.168.122.10  |  student  |
+    |   serverb   | 192.168.122.11  |  student  |
+
+# 
 
 ## Task 1
 
-    You inherit a system node1 without any password, but you have 
+    You inherit a system serverb without any password, but you have 
     console access to it. Recover the root password in a secure way, 
-    set the password to "Sagatiba labiusBR1".
+    set the password to "55 labiusBR$".
 
 ## Task 2
 
